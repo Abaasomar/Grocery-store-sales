@@ -3,8 +3,6 @@ Dive into grocery sales analytics! 🧾
 Using SQL, this project uncovers 🥇 top-performing stores, 💰 revenue insights, and 🛍️ customer spending patterns.  
 From cleaning raw data to extracting key insights — every query tells a story of business performance and growth.
 ---
-🔍 **Want to see the SQL queries?**  
-👉 Check them out here: [project_sql folder](./project_sql)
 ---
 ## Background
 Driven by a quest to understand grocery store performance and customer behavior, this project was created to uncover key trends in sales, revenue, and discounts.  
