@@ -128,23 +128,28 @@ ORDER BY avg_transaction_value DESC;
 
 Throughout this project, I strengthened my SQL skills and gained hands-on experience in real-world data analysis:
 
-🧩 Complex Query Crafting: Mastered advanced SQL techniques, including JOINs, CTEs (WITH clauses), and nested queries for efficient and readable data workflows.
-📊 Data Aggregation: Leveraged GROUP BY with aggregate functions like COUNT(), AVG(), and SUM() to summarize and extract meaningful insights from large datasets.
-💡 Analytical Problem-Solving: Translated business questions into actionable SQL queries, uncovering trends, patterns, and insights that drive decision-making.
+🧩 **Complex Query Crafting:** Mastered advanced SQL techniques, including JOINs, CTEs (WITH clauses), and nested queries for efficient and readable data workflows.  
+📊 **Data Aggregation:** Leveraged GROUP BY with aggregate functions like COUNT(), AVG(), and SUM() to summarize and extract meaningful insights from large datasets.  
+💡 **Analytical Problem-Solving:** Translated business questions into actionable SQL queries, uncovering trends, patterns, and insights that drive decision-making.
 
 # CONCLUSIONS
 From the analysis of the grocery store dataset, several meaningful insights emerged:
-### Summarized insights:
-**1.Top Transaction Values:**
-Certain store-product combinations generate the highest average revenue per transaction, highlighting which products are the most valuable for the busines
-**2.Discount Strategies:** 
-Some stores consistently offer higher average discounts or more frequent promotions, revealing differences in marketing tactics and customer engagement strategie
-**3.Customer Loyalty**:
-Products with higher average loyalty points drive repeat purchases and stronger customer engagement, indicating which items incentivize loyalty the most.**
-**4.Product Diversity**:
-Some aisles or categories offer a wider variety of products, helping stores understand which sections attract more customer choice and may require focused inventory strategies.
-**5.Geographic Performance:** 
-Stores differ in total sales and average transaction value, showing which locations perform best and where regional spending patterns vary.
 
+### Summarized insights:
+
+**1. Top Transaction Values:**  
+Certain store-product combinations generate the highest average revenue per transaction, highlighting which products are the most valuable for the business.  
+
+**2. Discount Strategies:**  
+Some stores consistently offer higher average discounts or more frequent promotions, revealing differences in marketing tactics and customer engagement strategies.  
+
+**3. Customer Loyalty:**  
+Products with higher average loyalty points drive repeat purchases and stronger customer engagement, indicating which items incentivize loyalty the most.  
+
+**4. Product Diversity:**  
+Some aisles or categories offer a wider variety of products, helping stores understand which sections attract more customer choice and may require focused inventory strategies.  
+
+**5. Geographic Performance:**  
+Stores differ in total sales and average transaction value, showing which locations perform best and where regional spending patterns vary.  
 
 
