@@ -6,7 +6,8 @@ From cleaning raw data to extracting key insights — every query tells a story 
 Driven by a quest to understand grocery store performance and customer behavior, this project was created to uncover key trends in sales, revenue, and discounts.  
 The goal is to transform raw transactional data into actionable insights, helping businesses identify top-performing stores, products, and promotional strategies.
 
----
+------------------------------------------------------------
+
 
 #### The questions I wanted to answer through my SQL project queries were:
 
@@ -25,7 +26,8 @@ The goal is to transform raw transactional data into actionable insights, helpin
 **5. How do revenue and transaction metrics vary across store locations?**  
 **Goal:** Determine top-performing stores and regional differences in sales.  
 
----
+------------------------------------------------------------
+
 
 ## Tools I Used
 For my deep dive into grocery store sales, I leveraged several key tools:
@@ -39,7 +41,8 @@ For my deep dive into grocery store sales, I leveraged several key tools:
 ### The Analysis
 Each SQL query in this project was designed to investigate specific aspects of grocery store performance. Here’s how I approached each question:
 
----
+------------------------------------------------------------
+
 
 
 #### 1:Top 5 Average Transaction Values
